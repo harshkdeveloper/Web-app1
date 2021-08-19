@@ -1,0 +1,4 @@
+@media (min-width: 600px) {
+  .appbar { grid-template-columns: repeat(2, 5fr); }
+  .title {grid-template-columns: repeat(2, 5fr);}
+}
